@@ -1,5 +1,7 @@
 # Volt Discord Nuker
 
+Volt Is A Discord Nuker Made In C#
+
 ## Installation Guide
 
 ```bash
